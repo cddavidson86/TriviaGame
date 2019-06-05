@@ -1,0 +1,36 @@
+body {
+    font-family: 'Black Ops One', cursive;
+    /* font-family: 'Rubik', sans-serif; */
+    background-image: url("../images/dishonored.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1, h2, h3, p {
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(3, 243, 252);
+}
+
+.container {
+    float: left;
+    width: 55%;
+    margin: 40px 0px 0px 30px;
+    background-color: rgba(226, 255, 248, 0.349);
+    border-radius: 20px;
+    height: 600px;
+}
+
+div {
+    /* border-style: solid;
+    border-color: rgb(3, 243, 252);
+    border-width: 2px; */
+}
+
+#head-box {
+    /* background-image: url("../images/controller-design-game-controller-1637436.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 100px;
+    float: left; */
+    
+}
