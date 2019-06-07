@@ -166,7 +166,7 @@ $(document).ready(function() {
   // RESETS THE TIME TO 10 SECONDS
   function reset() {
     time = 10;
-    $("#timer-box").text("00:00");
+    $("#timer-box").text("00:10");
   }
 
   // BEGINS THE TIMER
