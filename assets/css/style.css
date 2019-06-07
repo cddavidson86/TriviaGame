@@ -1,26 +1,29 @@
 body {
-    font-family: 'Black Ops One', cursive;
-    font-size: 20px;
-    /* font-family: 'Rubik', sans-serif; */
-    background-image: url("../images/dishonored.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;
+  font-family: "Black Ops One", cursive;
+  font-size: 20px;
+  /* font-family: 'Rubik', sans-serif; */
+  background-image: url("../images/dishonored.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
-h1, h2, h3, p {
-    font-family: 'Black Ops One', cursive;
-    text-align: center;
-    text-shadow: 2px 2px 5px rgb(3, 243, 252);
+h1,
+h2,
+h3,
+p {
+  font-family: "Black Ops One", cursive;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgb(3, 243, 252);
 }
 
 .container {
-    float: left;
-    width: 55%;
-    margin: 40px 1px 1px 30px;
-    background-color: rgba(226, 255, 248, 0.349);
-    border-radius: 20px;
-    height: 600px;
-    box-shadow: 2px 2px 2px rgb(3, 243, 252);
+  float: left;
+  width: 55%;
+  margin: 40px 1px 1px 30px;
+  background-color: rgba(226, 255, 248, 0.349);
+  border-radius: 20px;
+  height: 600px;
+  box-shadow: 2px 2px 2px rgb(3, 243, 252);
 }
 
 /* div {
@@ -30,35 +33,35 @@ h1, h2, h3, p {
 } */
 
 #head-box {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
-#answer-box {
-    margin: 10px;
+.pretty {
+  margin-left: 35.5%;
 }
+
+/* #answer-box {
+  border-style: double;
+  border-width: 5px;
+} */
 
 #question-box {
-    margin: 10px;
-    text-align: center;
+  margin: 10px;
+  text-align: center;
 }
 
 #timer-box {
-    margin: 10px;
-    text-align: center;
+  margin: 10px;
+  text-align: center;
 }
 
 .answer-buttons-animation {
-    background-color: black;
-    border: none;
-    color: rgb(3, 243, 252);
-    padding: 20px;
-    width: 70%;
-    margin: 5px 0px 5px 15%;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
-    -webkit-transition-duration: 0.4s;
-    transition-duration: 0.4s;
-  }
-  
+  background-color: black;
+  border-radius: 5px;
+  color: rgb(3, 243, 252);
+  padding: 20px;
+  width: 70%;
+  margin: 5px 0px 5px 15%;
+  text-align: center;
+  font-size: 14px;
+}
