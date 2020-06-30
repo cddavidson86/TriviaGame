@@ -1,11 +1,7 @@
 # TriviaGame
-Trivia Game
 
+Link - https://cddavidson86.github.io/TriviaGame/
 
-What the project does - This is a simple trivia game mostly coded in Jquery.
+This is a simple trivia game mostly coded in Jquery. It is useful for simple demonstration of objects and buttons.
 
-Why the project is useful - It is useful for simple demonstration of objects and buttons
-
-How users can get started with the project - Just press the start button!
-
-Who maintains and contributes to the project - Charles Davidson
+Just press the start button!
